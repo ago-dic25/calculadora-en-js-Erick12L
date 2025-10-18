@@ -1,0 +1,33 @@
+.body{
+  display: flex;
+  text-align: center;
+  background-color: rgb(141, 143, 44);
+}
+
+.entrada{
+  background-color: rgb(10, 10, 67);
+  padding: 5px;
+  margin: 5px;
+  display: flex;
+  align-items: center;
+}
+
+#num1, #num2{
+  font-size: 40px;
+}
+
+.operaciones{
+  background-color:darkkhaki;
+  padding: 5px;
+  margin: 5px;
+  display: block;
+  text-align: center;
+}
+
+.operador{
+  font-size: 50px;
+  margin: 5px;
+  padding: 5px;
+  background-color:darkseagreen;
+  border-radius: 10px;
+}
